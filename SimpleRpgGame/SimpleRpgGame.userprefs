@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9078809B-6C21-44CA-9C77-D9FC928E7791}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleRpgGame/IncorrectValueException.cs">
+    <Files>
+      <File FileName="SimpleRpgGame/Program.cs" Line="19" Column="4" />
+      <File FileName="SimpleRpgGame/IState.cs" Line="4" Column="25" />
+      <File FileName="SimpleRpgGame/ExploreState.cs" Line="26" Column="1" />
+      <File FileName="SimpleRpgGame/BattleState.cs" Line="37" Column="23" />
+      <File FileName="SimpleRpgGame/RPGController.cs" Line="8" Column="24" />
+      <File FileName="SimpleRpgGame/IncorrectValueException.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.SimpleRpgGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
